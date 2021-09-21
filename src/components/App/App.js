@@ -4,7 +4,6 @@ import Board from '../Board';
 import { createTiles, indexOfSelected } from '../../misc/utils';
 
 import './App.css';
-import { ids } from 'webpack';
 
 class App extends Component {
   constructor(props) {
